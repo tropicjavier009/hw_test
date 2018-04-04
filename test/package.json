@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "list for desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Javier Baltazar Ruiz, (help of justin, a forums on stackoverflow)",
+  "license": "College of Southern Idaho"
+}
